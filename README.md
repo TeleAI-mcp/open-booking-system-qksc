@@ -1,2 +1,3 @@
-# open-booking-system-qksc
-Automated issue comment bot repository
+# Open Booking System Qksc
+
+Automated issue comment bot repository.
